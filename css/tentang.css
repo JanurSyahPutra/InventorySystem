@@ -1,0 +1,59 @@
+.card{
+	background: #fbfbfb;
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+	height: 610px;
+	margin: auto; 
+	width: auto;
+}
+
+.judul{
+	background: #FAFAFA;
+    font-size: 14pt;
+    padding: 10px 20px;
+    box-shadow: 1px 1px 2px #000;
+    color: #4D8C6F;
+	text-decoration: none;
+	width: 12%;
+	margin-left: 20px;
+	margin-bottom: 25px;
+}
+.judul:hover {
+    box-shadow: 1px 1px 2px #F2F2F2;
+}
+
+.isi{
+	background: #F2F2EB;
+    font-size: 14pt;
+    padding: 10px 20px;
+    color: #4D8C6F;
+	text-decoration: none;
+	width: auto;
+	margin-left: 20px;
+	margin-bottom: 25px;
+	height: auto;
+}
+.kontak{
+	background: #F2F2EB;
+    font-size: 14pt;
+    padding: 10px 20px;
+    color: #4D8C6F;
+	text-decoration: none;
+	width: auto;
+	margin-right: 25px;
+	margin-bottom: 25px;
+	height: auto;
+}
+.kiri{
+	width: 60%;
+	height: 70%;
+	float: left;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.kanan{
+	width: 40%;
+	height: 70%;
+	float: right;
+}

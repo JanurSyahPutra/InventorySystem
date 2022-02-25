@@ -1,0 +1,40 @@
+.table{
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 12pt;
+	font-weight: bold;
+	box-shadow: 1px 1px 2px;
+}
+
+td{
+	text-align: center;
+	height: 40px;
+}
+
+.judul{
+	background-color: #8FBFA9;
+	color: #F2F2F2;
+}
+
+.isi{
+	color: #4D8C6F;
+}
+.isi:hover {
+	background-color: #F2F2EB;
+}
+
+.hapus{
+	text-decoration: none;
+	color: #545454;
+}
+.hapus:hover{
+	color: red;
+}
+
+.edit{
+	text-decoration: none;
+	color: #545454;
+}
+.edit:hover{
+	color: #80FFA8;
+}

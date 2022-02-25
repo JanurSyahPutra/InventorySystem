@@ -1,0 +1,52 @@
+.label{
+	font-size: 15pt;
+	color: #4D8C6F;
+}
+.forminput{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 14pt;
+	margin-bottom: 20px;
+	color: #8198A6;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-bottom: 3px solid #03A696;
+	border-radius: 3px;
+	background-color: #FAFAFA;
+	outline: none;
+}
+.forminput:hover{
+	background-color: #F2F2EB;
+	border-radius: 3px; 
+}
+.tomboltambah{
+	background: #8FBFA9;
+    font-size: 14pt;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: #FFFFFF;
+	text-decoration: none;
+	width: 20%;
+	border: none;
+	box-shadow: 1px 1px 2px #000;
+	margin-right: 10px;
+}
+.tomboltambah:hover{
+	box-shadow: 1px 1px 2px #FAFAFA;
+}
+.tombolreset{
+	background: #FF152E;
+    font-size: 14pt;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: #FFFFFF;
+	text-decoration: none;
+	width: 15%;
+	border: none;
+	box-shadow: 1px 1px 2px #000;
+}
+.tombolreset:hover{
+  	box-shadow: 1px 1px 2px #FAFAFA;
+}

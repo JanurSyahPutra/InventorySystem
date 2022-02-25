@@ -1,0 +1,141 @@
+body{
+  background-size: cover;
+  background-image: url(../icon/logis3.jpg);
+}
+
+.colom{
+  column-count: 2;
+  margin-top: 160px;
+
+}
+
+.img{
+  margin-left: 250px;
+}
+
+.text{
+  color: #fbfbfb;
+  text-shadow: 1px 1px 2px;
+  font-size: 30pt;
+  font-family: "Raleway SemiBold", sans-serif;
+}
+
+.trans{
+  opacity: 0.7;
+  background: #4D8C6F;
+  text-align: center;
+  width: 80%;
+  border-radius: 6px;
+}
+
+.form{
+	background: #fbfbfb;
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+  height: 580px;
+  margin-left: auto;
+  margin-right: 100px;
+  margin-top: 180px; 
+  width: 500px;
+}
+
+.form-isi {
+      padding: 12px 44px;
+}
+.form-judul {
+      font-family: sans-serif;
+      letter-spacing: 4px;
+      padding-bottom: 23px;
+      padding-top: 13px;
+      text-align: center;
+}
+.garis {
+      background: #4D8C6F;
+      height: 2px;
+      margin: -1.1rem auto 0 auto;
+      width: 89px;
+}
+
+.garis2 {
+      background: #4D8C6F;
+      height: 2px;
+      margin: -1.1rem auto 0 auto;
+      width: 150px;
+}
+.garis3 {
+      background: #4D8C6F;
+      height: 2px;
+      width: 184px;
+}
+
+label {
+    font-family: sans-serif;
+    font-size: 13pt;
+    color: #4D8C6F;
+}
+
+.forminput{
+  box-sizing : border-box;
+  width: 100%;
+  padding: 10px;
+  font-size: 14pt;
+  margin-bottom: 20px;
+  color: #8198A6;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom: 3px solid #03A696;
+  border-radius: 3px;
+  background-color: #FAFAFA;
+  outline: none;
+}
+.forminput:hover{
+  background-color: #F2F2EB;
+  border-radius: 3px;
+  border-top: none;
+  border-right: none;
+  border-left: none; 
+}
+
+.tombolsign {
+    background: #4D8C6F;
+    border: none;
+    box-shadow: 1px 1px 2px #000;
+    cursor: pointer;
+    color: white;
+    font-family: "Raleway SemiBold", sans-serif;
+    height: 42.3px;
+    margin: 0 auto;
+    margin-top: 50px;
+    transition: 0.25s;
+    width: 153px;
+    font-size: 14pt;
+}
+.tombolsign:hover {
+    box-shadow: 1px 1px 2px #fff;
+}
+
+.beranda{
+  text-decoration: none;
+  color: #4D8C6F;
+  font-size: 16pt;
+}
+
+.tombolregis{
+    background: #4D8C6F;
+    border: none;
+    box-shadow: 1px 1px 2px #000;
+    cursor: pointer;
+    color: white;
+    font-family: "Raleway SemiBold", sans-serif;
+    height: 42.3px;
+    margin: 0 auto;
+    margin-top: 50px;
+    transition: 0.25s;
+    width: 153px;
+    font-size: 14pt;
+    margin-left: 10px;
+}
+.tombolregis:hover{
+  box-shadow: 1px 1px 2px #fff;
+}

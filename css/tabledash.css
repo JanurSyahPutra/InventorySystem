@@ -1,0 +1,37 @@
+.index{
+	font-family: sans-serif; 
+	background-image: url(../icon/warehouse.jpg); 
+	background-size: auto;
+}
+.table{
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 12pt;
+	font-weight: bold;
+	box-shadow: 1px 1px 2px;
+	background-color: #FAFAFA;
+}
+
+td{
+	text-align: center;
+	height: 40px;
+}
+
+.judul{
+	background-color: #8FBFA9;
+	color: #F2F2F2;
+}
+
+.isi{
+	color: #4D8C6F;
+}
+.isi:hover {
+	background-color: #F2F2EB;
+}
+.jml{
+	color: #4D8C6F;
+	background-color: #F2F2EB;
+}
+.tengah{
+	border-right: 2px solid #4D8C6F;
+}

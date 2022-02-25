@@ -1,0 +1,96 @@
+body{
+	font-family: sans-serif; 
+	background: #FAFAFA;
+}
+
+#side{
+	width:15%; 
+	background-color: #FCFFF5;
+}
+
+#dashboard{
+	height: 7.4%; 
+	background-color: #4D8C6F; 
+	text-decoration: none;
+	font-size: 21pt;
+	color: #FFFFFF;
+}
+
+#sidelink{
+	font-size: 17pt;
+	color: #4D8C6F;
+	display: inline-block;
+}
+
+#titlebar{
+	font-size: 14pt;
+	color: #FFFFFF;
+	background-color:#8FBFA9;
+}
+
+.iconside{
+	float: right;
+	width: 30px;
+}
+
+.tomboltbh{
+	background: #FAFAFA;
+    font-size: 14pt;
+    padding: 10px 20px;
+    box-shadow: 1px 1px 2px #000;
+    cursor: pointer;
+    color: #4D8C6F;
+	text-decoration: none;
+}
+.tomboltbh:hover {
+    box-shadow: 1px 1px 2px #F2F2F2;
+}
+
+.btnprint{
+	background: #FAFAFA;
+    font-size: 14pt;
+    width: 8.5%;
+    padding: 7px 20px;
+    box-shadow: 1px 1px 2px #000;
+    cursor: pointer;
+	text-decoration: none;
+}
+
+.btnprint:hover{
+	box-shadow: 1px 1px 2px #F2F2F2;
+}
+
+.print{
+	border: none;
+	background: #FAFAFA;
+	cursor: pointer;
+	width: 67%;
+	color: #4D8C6F;
+}
+.print:focus{
+	outline: none;
+}
+.btnprintall{
+	background: #FAFAFA;
+    font-size: 14pt;
+    width: 14%;
+    padding: 7px 20px;
+    box-shadow: 1px 1px 2px #000;
+    cursor: pointer;
+	text-decoration: none;
+}
+
+.btnprintall:hover{
+	box-shadow: 1px 1px 2px #F2F2F2;
+}
+
+.printall{
+	border: none;
+	background: #FAFAFA;
+	cursor: pointer;
+	width: 67%;
+	color: #4D8C6F;
+}
+.printall:focus{
+	outline: none;
+}
